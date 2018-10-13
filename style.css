@@ -1,0 +1,42 @@
+body{ 
+    color:navy;
+    font-family: cursive;
+    font-size:15px;
+    background-color:pink;
+}
+#first{
+    width:495px;
+    background-color: purple;
+    color:white;
+    padding:18px;
+    border:16px solid navy  ;
+    font-family: fantasy
+    margin:0;
+}
+#second{
+    width:490px;
+    background-color:turquoise;
+    color:black;
+    border:16px solid blue;
+    padding:20px;
+}
+
+img{
+    border-radius: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+    shadow {-webkit-filter: drop-shadow(8px 8px 10px green);
+    filter: drop-shadow(8px 8px 10px green);}
+}
+#third{
+    width:490px;
+    background-color:maroon;
+    color:black;
+    border:15px solid red;
+    padding:20px;
+    
+}
+
+    
